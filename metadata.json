@@ -1,0 +1,7 @@
+{
+  "name": "ReadAble",
+  "description": "ReadAble is an AI-powered platform that turns complex documents, spreadsheets, images, and research papers into clear, actionable insights in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
